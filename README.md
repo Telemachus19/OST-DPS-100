@@ -3,10 +3,11 @@
 ## Structure
 
 ```
-├── lectures/          # Lecture slides and notes
-├── assignments/       # Course assignments
-└── patterns/
-    ├── creational/    # Creational design patterns
-    ├── structural/    # Structural design patterns
-    └── behavioral/    # Behavioral design patterns
++---assignments     # Course assignments
++---labs            # Course Labs
++---lectures        # Lecture slides and notes
+\---patterns
+    +---behavioral  # Behavioral design patterns
+    +---creational  # Creational design patterns
+    \---structural  # Structural design patterns
 ```
